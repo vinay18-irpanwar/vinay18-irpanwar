@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Insurance Data Analysis**
 
-- 🌱 I’m currently learning **Machin Learning**
+- 🌱 I’m currently learning **Machin Learning**|**Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinay18-irpanwar?tab=repositories](https://github.com/vinay18-irpanwar?tab=repositories)
 
